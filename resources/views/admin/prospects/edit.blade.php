@@ -57,8 +57,8 @@
                 <!-- </div> -->
             </div>
         </div>
-        <div class="col-md-8">
-            <div class="card mt-3">
+        <div class="col-md-8" style="margin: auto;height: 100%;max-width: 720px;">
+            <div class="card mt-3" style="display:flex">
                 <div class="card-body">
                     <h5>Izmeni podatke</h5>
                     <hr>
@@ -91,7 +91,7 @@
                 </div>
             </div><!-- /.card Prospect details-->
 
-            <div class="card mt-3">
+            <div class="card mt-3" style="display:flex">
                 <div class="card-body">
                     <h5>Izmeni kontakt podatke</h5>
                     <hr>
